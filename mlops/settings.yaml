@@ -1,5 +1,13 @@
 projects:
+  black_familiar: {}
+  creative_arcanist: {}
+  damp_destiny: {}
+  electrifying_lake: {}
+  frosty_song: {}
+  homework_03:
+    path: homework_03
   unit_0_setup: {}
   unit_1_data_preparation: {}
   unit_2_training: {}
   unit_3_observability: {}
+  valorous_song: {}
